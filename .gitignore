@@ -1,0 +1,12 @@
+
+.vs/*
+CanalesElectronicos.Infrastructure/obj/*
+CanalesElectronicos.Infrastructure/bin/*
+CanalesElectronicosAPV.Core/bin/*
+CanalesElectronicosAPV.Core/obj/*
+CanalesElectronicosAPV.Domain/bin/*
+CanalesElectronicosAPV.Domain/obj/*
+CanalesElectronicosAPV.Test/bin/*
+CanalesElectronicosAPV.Test/obj/*
+CanalesElectronicosAPV/bin/*
+CanalesElectronicosAPV/obj/*
